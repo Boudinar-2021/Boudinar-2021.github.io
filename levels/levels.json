@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "level_url": "https://boudinar-2021.github.io/levels/level1"
+  },
+  {
+    "id": 2,
+    "level_url": "https://boudinar-2021.github.io/levels/level2"
+  },
+  {
+    "id": 3,
+    "level_url": "https://boudinar-2021.github.io/levels/level3"
+  },
+  {
+    "id": 4,
+    "level_url": "https://boudinar-2021.github.io/levels/level4"
+  },
+  {
+    "id": 5,
+    "level_url": "https://boudinar-2021.github.io/levels/level5"
+  },
+  {
+    "id": 6,
+    "level_url": "https://boudinar-2021.github.io/levels/level6"
+  }
+]
